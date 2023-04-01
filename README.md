@@ -1,2 +1,2 @@
-# Responsive_card
-responsive card and text in CSS
+# Responsive Card Design
+* responsive card and text in CSS
