@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 90%;
+}
+
+body {
+    font-size: 1.5rem;
+    color: #333;
+    background-color: #ce9191;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
