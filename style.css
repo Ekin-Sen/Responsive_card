@@ -38,3 +38,22 @@ body {
 .card:hover .card_image img {
     transform: scale(1.4);
 }
+
+.card_info {
+    position: relative;
+    padding: 2rem 3rem;
+}
+
+.card_title {
+    font-size: 3rem;
+    text-transform: capitalize;
+}
+
+.card_title_2 {
+    display: inline-block;
+    font-size: 1.2rem;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #adaaaa;
+    margin-bottom: 1rem;
+}
