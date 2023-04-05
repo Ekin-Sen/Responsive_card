@@ -57,3 +57,22 @@ body {
     color: #adaaaa;
     margin-bottom: 1rem;
 }
+
+.card_target {
+    position: relative;
+    display: inline-block;
+    text-decoration: none;
+    font-weight: bold;
+    color: #ce9191;
+    margin-top: 2rem;
+}
+
+.card_target span {
+    display: inherit;
+    transition: transform .2s;
+    margin-left: .3em;
+}
+
+.card_target:hover span {
+    transform: translateX(.5rem);
+}
